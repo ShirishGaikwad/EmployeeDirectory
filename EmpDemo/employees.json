@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Software Engineer",
+      "department": "Engineering",
+      "email": "john.doe@example.com",
+      "phoneNumber": "123-456-7890",
+      "hireDate": "2020-01-15",
+      "salary": 75000,
+      "isManager": false,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      }
+    },
+    {
+      "id": "EMP002",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "jobTitle": "Product Manager",
+      "department": "Product",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "987-654-3210",
+      "hireDate": "2019-06-01",
+      "salary": 90000,
+      "isManager": true,
+      "address": {
+        "street": "456 Broadway",
+        "city": "Somecity",
+        "state": "NY",
+        "zip": "10001"
+      }
+    }
+  ]
+}
