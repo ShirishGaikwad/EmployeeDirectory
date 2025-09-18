@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		3F1C595D2E7AE77F00FB9CEC /* employees.json in Resources */ = {isa = PBXBuildFile; fileRef = 3F1C595C2E7AE77F00FB9CEC /* employees.json */; };
+		3F1C59912E7BCEAE00FB9CEC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3F1C59902E7BCEAE00FB9CEC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3F1C59362E7AD50F00FB9CEC /* EmpDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmpDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F1C595C2E7AE77F00FB9CEC /* employees.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = employees.json; sourceTree = "<group>"; };
+		3F1C59902E7BCEAE00FB9CEC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				3F1C595C2E7AE77F00FB9CEC /* employees.json */,
+				3F1C59902E7BCEAE00FB9CEC /* README.md */,
 				3F1C59382E7AD50F00FB9CEC /* EmpDemo */,
 				3F1C59372E7AD50F00FB9CEC /* Products */,
 			);
@@ -115,6 +118,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F1C59912E7BCEAE00FB9CEC /* README.md in Resources */,
 				3F1C595D2E7AE77F00FB9CEC /* employees.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
